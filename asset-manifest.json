@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Halondo/static/css/main.ccc03533.css",
+    "main.js": "/Halondo/static/js/main.09827b1b.js",
+    "index.html": "/Halondo/index.html",
+    "static/media/group-260.svg": "/Halondo/static/media/group-260.caff609effafdda552e0.svg",
+    "main.ccc03533.css.map": "/Halondo/static/css/main.ccc03533.css.map",
+    "main.09827b1b.js.map": "/Halondo/static/js/main.09827b1b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ccc03533.css",
+    "static/js/main.09827b1b.js"
+  ]
+}
