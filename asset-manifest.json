@@ -1,14 +1,18 @@
 {
   "files": {
     "main.css": "/Halondo/static/css/main.ccc03533.css",
-    "main.js": "/Halondo/static/js/main.09827b1b.js",
+    "main.js": "/Halondo/static/js/main.874190c3.js",
+    "static/media/whyleft.svg": "/Halondo/static/media/whyleft.2b4b1682991c932a42878c0a1cd1714d.svg",
+    "static/media/logo.jpeg": "/Halondo/static/media/logo.c02d0d9897e824fdece5.jpeg",
+    "static/media/group-2231.svg": "/Halondo/static/media/group-2231.6878839c5fc8fddfe39415148aa7ae99.svg",
+    "static/media/group-223.svg": "/Halondo/static/media/group-223.788f7fac54d3b081a35fb3440ad850ed.svg",
     "index.html": "/Halondo/index.html",
     "static/media/group-260.svg": "/Halondo/static/media/group-260.caff609effafdda552e0.svg",
     "main.ccc03533.css.map": "/Halondo/static/css/main.ccc03533.css.map",
-    "main.09827b1b.js.map": "/Halondo/static/js/main.09827b1b.js.map"
+    "main.874190c3.js.map": "/Halondo/static/js/main.874190c3.js.map"
   },
   "entrypoints": [
     "static/css/main.ccc03533.css",
-    "static/js/main.09827b1b.js"
+    "static/js/main.874190c3.js"
   ]
 }
