@@ -1,0 +1,44 @@
+.how{
+    display: flex;
+    flex-direction: column;
+    margin-top: 12rem;
+    padding: 2rem 4rem;
+    background-color: rgba(254, 180, 21, 0.25);
+}
+
+.how h2{
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 25px;
+    line-height: 31px;
+    color: rgba(0, 0, 0, 0.85);
+}
+
+.how-container{
+    display: flex;
+    gap: 2em;
+}
+
+.how-card h3{ 
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 22px;
+line-height: 31px;
+color: rgba(0, 0, 0, 0.75);
+}
+
+.how-card p{ 
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 500;
+font-size: 15px;
+line-height: 22px;
+/* or 149% */
+
+letter-spacing: 0.25px;
+
+color: rgba(0, 0, 0, 0.5);
+
+}

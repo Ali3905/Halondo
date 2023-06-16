@@ -1,0 +1,56 @@
+@import url("https://fonts.googleapis.com/css2?family=Poppins:wght@400;500;600;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Segoe+UI:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-poppins: Poppins;
+  --font-segoe-ui: "Segoe UI";
+
+  /* font sizes */
+  --font-size-sm: 14px;
+  --font-size-base: 16px;
+  --font-size-mini: 15px;
+  --font-size-xl: 20px;
+  --font-size-3xl: 22px;
+  --font-size-29xl: 48px;
+  --font-size-26xl: 45px;
+  --font-size-11xl: 30px;
+  --font-size-lg: 18px;
+
+  /* Colors */
+  --color-white: #fff;
+  --color-gray-100: #162028;
+  --color-gray-400: rgba(0, 0, 0, 0.03);
+  --color-gray-600: rgba(0, 0, 0, 0.75);
+  --color-gray-300: rgba(0, 0, 0, 0.5);
+  --color-gray-500: rgba(22, 32, 40, 0.75);
+  --color-gray-700: rgba(0, 0, 0, 0.85);
+  --color-gray-200: rgba(0, 0, 0, 0.3);
+  --color-black: #000;
+  --color-dimgray: #666;
+  --color-lightgray: #ccc;
+  --color-orange-100: #feb415;
+
+  /* Gaps */
+  --gap-5xl: 24px;
+  --gap-36xl: 55px;
+  --gap-32xl: 51px;
+  --gap-86xl: 105px;
+  --gap-75xl: 94px;
+  --gap-102xl: 121px;
+
+  /* Paddings */
+  --padding-3xl: 22px;
+  --padding-24xl: 43px;
+  --padding-9xl: 28px;
+
+  /* border radiuses */
+  --br-3xs: 10px;
+  --br-xl: 20px;
+  --br-66xl: 85px;
+  --br-31xl: 50px;
+  --br-mini: 15px;
+}

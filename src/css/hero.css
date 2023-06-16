@@ -1,0 +1,168 @@
+.b {
+    font-size: 55px;
+  }
+  .deliver-with,
+  .halondo1 {
+    /* position: relative; */
+    line-height: 52px;
+    /* display: inline-block;
+    width: 273px; */
+  }
+  .halondo1 {
+    font-size: 60px;
+    background: linear-gradient(89.9deg, #feb415 1.99%, #050608);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+  }
+  .deliver-with-parent {
+    display: flex;
+    flex-direction: column;
+    /* align-items: flex-start;
+    justify-content: flex-start; */
+  }
+  .in-just-a {
+    /* position: relative; */
+    font-size: var(--font-size-xl);
+    letter-spacing: 0.25px;
+    line-height: 30px;
+    font-weight: 500;
+    color: var(--color-gray-700);
+    /* display: inline-block; */
+    max-width: 532px;
+  }
+  .herotext {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: flex-start;
+    gap: 49px;
+    margin-bottom: 4rem;
+  }
+  
+  
+  
+  .sign-up-now {
+    font-size: 24px;
+    line-height: 31.2px;
+    font-weight: 600;
+    align-self: center;
+    color: var(--color-gray-700);
+  }
+
+ 
+  .group input {
+    border: none;
+    border-bottom: 1px solid gray;
+    height: 27.5px;
+    width: 100%;
+    font-family: var(--font-segoe-ui);
+    outline: 1px solid white;
+  }
+ 
+  .group input::placeholder {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 16px;
+
+    color: #666666;
+  }
+  .group {
+    /* height: 27.5px;
+    font-family: var(--font-segoe-ui); */
+    width: 100%;
+  }
+  .name{
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+  }
+  
+  #first_name{
+    width: 90%;
+  }
+
+  #privacy, #courier{
+    height: auto;
+    width: auto;
+  }
+
+  .check-container{
+    display: flex;
+    align-items: flex-start;
+  }
+
+  .check-container input{
+    margin-top: 6px;
+    margin-right: .7rem;
+  }
+
+  .have-account{
+    align-self: center;
+  }
+
+  .signupform {
+    display: flex;
+    flex-direction: column;
+    padding: 2rem 4rem;
+    align-items: flex-start;
+    gap: 1rem;
+
+    border-radius: 45px;
+    background-color: var(--color-white);
+    box-shadow: 3px 5px 10px 3px rgba(0, 0, 0, 0.15);
+    font-size: var(--font-size-base);
+    color: var(--color-dimgray);
+  }
+  .hero {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding: 0 2rem;
+  }
+  
+  .herocontainer {
+    display: flex;
+    flex-direction: column;
+    padding: 0rem 4rem;
+    height: 90vh;
+    width: 90vw;
+    font-size: 35px;
+    color: var(--color-black);
+  }
+  .desktop-1 {
+    /* position: relative; */
+    border-radius: 30px;
+    background-color: var(--color-white);
+    width: 100%;
+    /* height: 4970px; */
+    /* overflow: hidden; */
+    text-align: left;
+    font-size: 40px;
+    color: var(--color-gray-600);
+    font-family: var(--font-poppins);
+  }
+  
+
+  .btn-signup{
+    align-self: center;
+    
+  }
+
+  .btn-primary{
+    height: 60px;
+    width: 400px;
+    border-radius: 20px;
+    font-family: Poppins;
+    font-size: 15px;
+    font-weight: 700;
+    line-height: 20px;
+    letter-spacing: 0.20000000298023224px;
+    text-align: center;
+    background: #FEB415;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border: none;
+  }

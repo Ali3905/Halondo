@@ -1,0 +1,38 @@
+.why-container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    margin-top: 12rem;
+    padding: 4rem 4rem;
+    background-color: rgba(254, 180, 21, 0.25);
+}
+
+.why-left,
+.why-right{
+    max-width: 45%;
+}
+.why-text{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.why-para{
+    font-size: var(--font-size-mini);
+  letter-spacing: 0.25px;
+  line-height: 22.4px;
+  font-weight: 500;
+  color: var(--color-gray-300);
+}
+
+.why {
+    font-weight: 500;
+  }
+  .span {
+    font-size: var(--font-size-29xl);
+  }
+  .halondo {
+    font-weight: 600;
+  }
