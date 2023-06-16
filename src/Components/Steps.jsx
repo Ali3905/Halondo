@@ -1,12 +1,15 @@
 import React from 'react'
 import "../css/steps.css"
+import step1 from "./img/group-223.svg"
+import step2 from "./img/group-2231.svg"
+
 
 const Steps = () => {
   return (
     <div className="steps">
           <div className="steps-container">
             {/* <div className="rectangle2" /> */}
-              <img className="steps-image" alt="" src="/group-223.svg" />
+              <img className="steps-image" alt="" src={step1} />
               <div className="steps-text">
                 <div className="steps-heading">Choose Your Schedule</div>
                 <div className="steps-para">
@@ -17,7 +20,7 @@ const Steps = () => {
           </div>
           <div className="steps-container">
             {/* <div className="rectangle2" /> */}
-              <img className="steps-image" alt="" src="/group-2231.svg" />
+              <img className="steps-image" alt="" src={step2} />
               <div className="steps-text">
                 <div className="steps-heading">Get Paid Weekly</div>
                 <div className="steps-para">

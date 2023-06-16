@@ -1,5 +1,6 @@
 import React from 'react'
 import "../css/whyHalondo.css"
+import why from "./img/whyleft.svg"
 
 const WhyHalondo = () => {
   return (
@@ -23,7 +24,7 @@ const WhyHalondo = () => {
             {/* <div className="rectangle" /> */}
           {/* </div> */}
         </div>
-        <img className="why-right-icon" alt="" src="/whyleft.svg" />
+        <img className="why-right-icon" alt="" src={why} />
       </div>
   )
 }
